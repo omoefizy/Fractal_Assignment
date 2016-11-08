@@ -1,0 +1,27 @@
+c:\users\user\documents\visual studio 2015\Projects\FractalAss\FractalAss\bin\Debug\FractalAss.exe.config
+c:\users\user\documents\visual studio 2015\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.csprojResolveAssemblyReference.cache
+c:\users\user\documents\visual studio 2015\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.FractalAss.resources
+c:\users\user\documents\visual studio 2015\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.Properties.Resources.resources
+c:\users\user\documents\visual studio 2015\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.csproj.GenerateResource.Cache
+c:\users\user\documents\visual studio 2015\Projects\FractalAss\FractalAss\bin\Debug\FractalAss.exe
+c:\users\user\documents\visual studio 2015\Projects\FractalAss\FractalAss\bin\Debug\FractalAss.pdb
+c:\users\user\documents\visual studio 2015\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.exe
+c:\users\user\documents\visual studio 2015\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.pdb
+C:\Users\User\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\bin\Debug\FractalAss.exe.config
+C:\Users\User\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.exe
+C:\Users\User\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.pdb
+C:\Users\User\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\bin\Debug\FractalAss.exe
+C:\Users\User\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\bin\Debug\FractalAss.pdb
+C:\Users\User\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.csprojResolveAssemblyReference.cache
+C:\Users\User\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.FractalAss.resources
+C:\Users\User\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.Properties.Resources.resources
+C:\Users\User\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.csproj.GenerateResource.Cache
+C:\Users\OMOBO\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\bin\Debug\FractalAss.exe.config
+C:\Users\OMOBO\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.exe
+C:\Users\OMOBO\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.pdb
+C:\Users\OMOBO\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\bin\Debug\FractalAss.exe
+C:\Users\OMOBO\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\bin\Debug\FractalAss.pdb
+C:\Users\OMOBO\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.csprojResolveAssemblyReference.cache
+C:\Users\OMOBO\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.FractalAss.resources
+C:\Users\OMOBO\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.Properties.Resources.resources
+C:\Users\OMOBO\Documents\LEEDS BU Year 3\SEM 1\ADV SOFT ENG\Projects\FractalAss\FractalAss\obj\Debug\FractalAss.csproj.GenerateResource.Cache
